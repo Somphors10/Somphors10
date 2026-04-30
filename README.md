@@ -8,7 +8,7 @@ I am a software developer from Cambodia 🇰🇭 who loves building clean, scala
 
 ### 💌 Let's be friends!
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uprh.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-98fb98?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srornchansomphors@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-98fb98?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srornchansomphors@gmail.com?subject=Hello%20from%20GitHub)
 
 ---
 
