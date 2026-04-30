@@ -33,7 +33,6 @@ I am a software developer from Cambodia 🇰🇭 who loves building clean, scala
 
 * 📱 **AndroShield** – A secure platform to manage Android devices for big teams.
 * 🛒 **SaaS POS System** – A smart shop system built for the cloud!
-* 🧪 **SADS System Testing** – Making sure administrative systems work perfectly, step-by-step.
 
 ---
 
