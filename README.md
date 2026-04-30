@@ -8,8 +8,7 @@ I am a passionate software developer based in Cambodia, currently focusing on bu
 
 ### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uprh.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[YOUR_LINKEDIN_ID])
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL]@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[srornchansomphors]@gmail.com)
 
 ---
 
