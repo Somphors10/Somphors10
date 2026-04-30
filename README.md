@@ -1,45 +1,86 @@
-# ✦ Hi there! I'm Srorn Chansomphors ✦ ✨
+# ✧･ﾟ: *✧･ﾟ:* Hi there! I'm Srorn Chansomphors *:･ﾟ✧*:･ﾟ✧
 
-### 👩‍💻 Full-Stack Developer ☁️ | 🛡️ Aspiring QA Engineer
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V0bWZ6d3F6Y2F1bWJ6c2h6aG1qZ3ZqN2R6cGJ5eG1zN2V4d2x6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
 
-I am a software developer from Cambodia 🇰🇭 who loves building clean, scalable apps and making sure they are bug-free! I enjoy turning complex problems into cozy, functional code. 🌸
+### 👩‍💻 Full-Stack Developer ☁️ | 🛡️ Future QA Engineer
 
----
-
-### 💌 Let's be friends!
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20it%20out-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-uprh.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-98fb98?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srornchansomphors@gmail.com?subject=Hello%20from%20GitHub)
+🌸 I'm a passionate developer from Cambodia 🇰🇭  
+💖 I love building **clean, scalable apps** and making sure they're **bug-free**  
+✨ Turning complex problems into cozy, beautiful code is my thing!
 
 ---
 
-### 🛠 My Coding Toolbox 🎀
+## 💌 Let's be friends! ♡
 
-**Backend Magic** 🌙
-* ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-* ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4323?style=flat-square&logo=codeigniter&logoColor=white)
-
-**Frontend Aesthetic** 🎨
-* ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Quality Assurance** 🛡️
-* ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Manual Testing](https://img.shields.io/badge/QA-No_Bugs_Allowed-pink?style=flat-square)
-
-**Data & Gadgets** ⚙️
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://my-portfolio-uprh.vercel.app/">
+    <img src="https://img.shields.io/badge/🌸 Portfolio-ffb7c5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:srornchansomphors@gmail.com">
+    <img src="https://img.shields.io/badge/💌 Email-98fb98?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📂 Fun Projects I've Built 🧸
+## 🛠 My Coding Toolbox 🎀
 
-* 📱 **AndroShield** – A secure platform to manage Android devices for big teams.
-* 🛒 **SaaS POS System** – A smart shop system built for the cloud!
+### 🌙 Backend Magic
+![Java](https://img.shields.io/badge/Java-f7a8b8?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-b5ead7?style=flat-square&logo=spring-boot&logoColor=black)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-c7ceea?style=flat-square&logo=spring&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-ffd1dc?style=flat-square&logo=php&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-ff9aa2?style=flat-square&logo=codeigniter&logoColor=white)
+
+---
+
+### 🎨 Frontend Aesthetic
+![Next.js](https://img.shields.io/badge/Next.js-ffdac1?style=flat-square&logo=next.js&logoColor=black)
+![React](https://img.shields.io/badge/React-e2f0cb?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-c7ceea?style=flat-square&logo=typescript&logoColor=black)
 
 ---
 
-### 🔭 Currently Learning... 📖
-- ✨ Mastering Automation with Playwright & Testing Pyramids
-- ☁️ Exploring Cloud Infrastructure
-- 🧁 Perfecting my ISTQB knowledge
+### 🛡️ Quality Assurance
+![Selenium](https://img.shields.io/badge/Selenium-b5ead7?style=flat-square&logo=selenium&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-ffb7c5?style=flat-square&logo=playwright&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-ffc8dd?style=flat-square)
 
 ---
-> "Quality is not an act, it is a habit." ☁️✨
+
+### ⚙️ Data & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a0c4ff?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-fff1a8?style=flat-square&logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-bde0fe?style=flat-square&logo=docker&logoColor=black)
+
+---
+
+## 📂 Cute Projects I've Built 🧸
+
+🌟 **AndroShield**  
+> A secure platform to manage Android devices for large teams 📱
+
+🛒 **SaaS POS System**  
+> A smart, cloud-based shop system ☁️💳
+
+---
+
+## 🔭 Currently Learning 📖
+
+✨ Automation Testing with Playwright  
+☁️ Cloud Infrastructure  
+🧁 ISTQB Certification  
+
+---
+
+## 🌸 Dev Mood
+
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+
+---
+
+> 💭 *"Quality is not an act, it is a habit."* ✨
+
+---
+
+💖 Thanks for visiting my profile! Let's build something amazing together 🌷
