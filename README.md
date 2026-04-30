@@ -1,6 +1,6 @@
 # ✧･ﾟ: *✧･ﾟ:* Hi there! I'm Srorn Chansomphors *:･ﾟ✧*:･ﾟ✧
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="120"/>
 
 ### 👩‍💻 Full-Stack Developer ☁️ | 🛡️ Future QA Engineer
 
