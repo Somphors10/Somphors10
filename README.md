@@ -42,10 +42,4 @@ I am a software developer from Cambodia 🇰🇭 who loves building clean, scala
 - 🧁 Perfecting my ISTQB knowledge
 
 ---
-
-### 📊 GitHub Magic
-<p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=rosepine&include_all_commits=true&count_private=true" />
-</p>
-
 > "Quality is not an act, it is a habit." ☁️✨
