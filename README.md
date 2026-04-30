@@ -1,6 +1,6 @@
 # ✧･ﾟ: *✧･ﾟ:* Hi there! I'm Srorn Chansomphors *:･ﾟ✧*:･ﾟ✧
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V0bWZ6d3F6Y2F1bWJ6c2h6aG1qZ3ZqN2R6cGJ5eG1zN2V4d2x6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="120"/>
 
 ### 👩‍💻 Full-Stack Developer ☁️ | 🛡️ Future QA Engineer
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 📂 Cute Projects I've Built 🧸
+## 📂 Projects I've Built 🧸
 
 🌟 **AndroShield**  
 > A secure platform to manage Android devices for large teams 📱
