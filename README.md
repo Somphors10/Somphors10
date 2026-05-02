@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 
-### 👩‍💻 Full-Stack Developer ☁️ | 🛡️ Future QA Engineer
+### 👩‍💻 Software Developer ☁️ | 🛡️ QA Engineer
 
 🌸 I'm a passionate developer from Cambodia 🇰🇭  
 💖 I love building **clean, scalable apps** and making sure they're **bug-free**  
