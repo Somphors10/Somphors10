@@ -87,6 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Somphors10/my-git-art/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Somphors10/my-git-art/blob/output/snake.svg" />
 </p>
+
 ---
