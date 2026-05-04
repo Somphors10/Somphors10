@@ -1,4 +1,4 @@
-# ✧･ﾟ: *✧･ﾟ:* Hi there! I'm Srorn Chansomphors *:･ﾟ✧*:･ﾟ✧
+<img width="1014" height="724" alt="image" src="https://github.com/user-attachments/assets/01998b44-fe4d-47ac-9740-3122c2ea8e2d" /># ✧･ﾟ: *✧･ﾟ:* Hi there! I'm Srorn Chansomphors *:･ﾟ✧*:･ﾟ✧
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
 
@@ -78,6 +78,9 @@
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 
 ---
+
+### 📊 My GitHub Contributions
+![GitHub Contributions Chart](https://github-contributions.vercel.app/api/v1/Somphors10?theme=dracula)
 
 > 💭 *"Quality is not an act, it is a habit."* ✨
 
