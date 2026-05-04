@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Somphors10/my-git-art/blob/output/snake.svg" />
+  <img src="https://github.com/Somphors10/my-git-art/blob/output/snake.svg" width="100%" />
 </p>
 
 ---
