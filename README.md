@@ -73,12 +73,6 @@
 
 ---
 
-## 🐍 My Contributions
-
-<p align="center">
-  <img src="https://github.com/Somphors10/my-git-art/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ## 🌸 Dev Mood
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
@@ -89,3 +83,13 @@
 ---
 
 💖 Glad you’re here! Let’s build something amazing together 🌷
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Somphors10/my-git-art/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
