@@ -78,10 +78,6 @@
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
 
 ---
-
-### 📊 My GitHub Contributions
-![GitHub Contributions Chart](https://github-contributions.vercel.app/api/v1/Somphors10?theme=dracula)
-
 > 💭 *"Quality is not an act, it is a habit."* ✨
 
 ---
